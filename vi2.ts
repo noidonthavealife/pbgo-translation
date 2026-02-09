@@ -11,7 +11,7 @@ export const en = {
     error: 'Lỗi',
     success: 'Thành công',
     gotIt: 'Hiểu rồi',
-    maybeLater: 'Có lẽ sau này',
+    maybeLater: 'Để lần sau',
     disabled: 'Tắt',
     ok: 'OK',
     retry: 'Thử lại',
