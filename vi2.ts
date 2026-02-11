@@ -179,6 +179,10 @@ export const en = {
     walk1kmDescription: 'Đi bộ 1 ki-lo-mét',
     conquerTerritory: 'Chinh phục lãnh thổ',
     conquerTerritoryDescription: 'Chiếm 1 vùng lãnh thổ',
+    winPvpBattle: 'Win PVP Battle',
+    winPvpBattleDescription: 'Win 1 PVP battle',
+    collectClay: 'Collect 1k Clay',
+    collectClayDescription: 'Collect 1000 clay',
     // Level tasks
     requirements: 'Yêu cầu',
     help: 'Giúp đỡ',
