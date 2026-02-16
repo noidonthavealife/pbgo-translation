@@ -23,7 +23,7 @@ export const en = {
     myBalls: 'Countryballs của tôi',
     shop: 'Cửa hàng',
     items: 'Vật phẩm',
-    dex: 'Dex',
+    dex: 'Danh sách',
     settings: 'Cài đặt',
     tutorials: 'Hướng dẫn',
     recruit: 'Tuyển',
@@ -33,7 +33,7 @@ export const en = {
 
   // Game Screen
   gameScreen: {
-    myTerritory: 'Vùng lãnh thổ của tôi',
+    myTerritory: 'Lãnh thổ',
     drag: 'Kéo',
     loadingTerritories: 'Đang tải các vùng lãnh thổ...',
     calibratingLocation: 'Đang hiệu chỉnh vị trí...',
