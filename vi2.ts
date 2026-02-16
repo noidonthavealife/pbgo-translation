@@ -283,7 +283,7 @@ export const en = {
     // Rarity
     mythical: 'Thần thoại',
     legendary: 'Huyền thoại',
-    epic: 'Sử thi',
+    epic: 'Hùng thoại',
     rare: 'Hiếm',
     uncommon: 'Không phổ biến',
     common: 'Thường',
