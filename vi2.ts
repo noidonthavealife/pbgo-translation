@@ -28,7 +28,7 @@ export const en = {
     tutorials: 'Hướng dẫn',
     recruit: 'Tuyển',
     quests: 'Nhiệm vụ',
-    battle: 'Battle', 
+    battle: 'Trận chiến', 
   },
 
   // Game Screen
